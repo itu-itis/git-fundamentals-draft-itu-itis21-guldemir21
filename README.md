@@ -1,4 +1,6 @@
 # :wave: The Basics of GitHub 
+Yusuf Faruk Güldemir 
+150210302
 
 ## 🤓 Course overview and learning outcomes 
 
