@@ -1,6 +1,5 @@
 <style type="text/css">
   h1 {
-
       text-align: center;
       border: thick solid red;
       text-decoration: none;
@@ -9,15 +8,16 @@
       color: red;
       font-size: 24 pt;
       font-family: Tahoma, Helvetica, sans-serif;
-     }
+      }
 
   em {
-      
+     
       color: green;
       font-style: normal;
       background-color: lightgrey;
       font-weight: bold;
      }
+
 
   ul {
 
@@ -43,6 +43,5 @@ p.centered {
  text-align: center;
  width: 50%;
           }
-
 
 </style>
